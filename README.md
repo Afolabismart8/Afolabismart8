@@ -1,40 +1,45 @@
 # Hi there, I'm Olalekan Afolabi 👋 (@Afolabismart8)
 
-I am a Backend Engineer focused on building robust, scalable, and secure server-side applications. I specialize in designing REST APIs, structuring database schemas, and implementing secure infrastructure.
-
-## 🚀 Featured Projects
-
-### 🔹 Secure Authentication & User Management API
-*A production-ready backend starter kit demonstrating secure identity management and session handling.*
-*   **Stack:** Node.js, Express.js, MongoDB, Mongoose, JWT
-*   **Key Features:** Implemented secure user registration and login flows, password hashing with bcrypt, stateless session management via JWTs, and middleware for protected, role-based API routes.
-
-### 🔹 RESTful Task & Resource Management Service
-*A scalable backend system designed to handle complex data relationships and optimized queries.*
-*   **Stack:** Node.js, Express.js, MongoDB, Mongoose
-*   **Key Features:** Designed relational schemas using Mongoose, built robust CRUD endpoints with input validation, and implemented server-side filtering, sorting, and pagination for large datasets.
+I am a Backend Engineer specializing in building robust, scalable, and secure server-side applications. I focus on architectural design, secure authentication systems, and database optimization using the modern JavaScript ecosystem.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-*   **Languages & Runtimes:** Node.js, JavaScript
+*   **Languages & Runtimes:** Node.js,
 *   **Frameworks:** Express.js
-*   **Databases & ORMs/ODMs:** MongoDB, Mongoose
-*   **Tools & Infrastructure:** Git, GitHub, Postman
+*   **Databases & ORMs/ODMs:** MongoDB, Mongoose,Prisma
+*   **Architecture & Security:** RESTful APIs, JWT (JSON Web Tokens), MVC Pattern, Password Hashing (Bcrypt)
+*   **Tools & Workflows:** Git, GitHub, Postman, Environment Configurations
 
-## 🌱 Current Focus & Learning Journey
+---
 
-I am actively expanding my expertise in industrial-grade backend engineering, specifically focusing on:
-*   Advanced **Authentication & Authorization** (JWT, OAuth, Role-Based Access Control).
-*   Application scalability, infrastructure setups, and rate-limiting.
-*   System stability and database query optimization.
+## 🚀 Featured Projects
 
-## 💞️ Collaboration
+### 🔹 Secure Authentication & Identity Management System
+*A production-ready backend infrastructure demonstrating secure identity management and session handling.*
+*   **Stack:** Node.js, Express.js, MongoDB, Mongoose, JWT
+*   **Key Engineering:** Implemented stateless session management via JWTs, password encryption, and custom middleware for protected, role-based API endpoints.
 
-I am looking to collaborate with other developers and tech experts on active, fast-paced backend projects. I enjoy solving complex architectural challenges, setting up clean project baselines, and working within agile team environments.
+### 🔹 Scalable RESTful Resource API
+*A highly structured backend system designed to handle complex data modeling and high-performance querying.*
+*   **Stack:** Node.js, Express.js, MongoDB, Mongoose
+*   **Key Engineering:** Designed robust data validation, optimized Mongoose schemas, and implemented server-side filtering, pagination, and sorting for efficient dataset delivery.
 
-## 📫 Let's Connect!
+---
+
+## 🎯 Technical Focus Areas
+
+My engineering workflows focus heavily on implementing industry standard patterns, including:
+*   **Identity & Access Control:** Advanced Authorization mechanisms, Role-Based Access Control (RBAC), and session security.
+*   **System Reliability:** Input validation, robust centralized error handling, and secure environment isolation.
+*   **Database Engineering:** Schema design, relational indexing, and performance optimization.
+
+## 💞️ Collaboration & Engineering Teams
+
+I collaborate with development teams and tech experts on active, production-grade backends. I bring a strong focus on writing modular, self-documenting code, setting up clean project baselines, and maintaining strict version control in agile environments.
+
+## 📫 Contact & Network
 
 *   **LinkedIn:** [linkedin.com/in/olalekan-afolabi-76a1a821a](https://www.linkedin.com/in/olalekan-afolabi-76a1a821a)
 *   **GitHub:** [github.com/Afolabismart8](https://github.com/Afolabismart8)
