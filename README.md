@@ -1,4 +1,4 @@
-# Hi👋, I'm Olalekan Afolabi.
+# Hi👋, I'm Afolabi.
 
 I am a Backend Engineer specializing in building robust, scalable, and secure server-side applications. I focus on architectural design, secure authentication systems, and database optimization using the modern JavaScript ecosystem.
 
