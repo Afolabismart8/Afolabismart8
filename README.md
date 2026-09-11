@@ -8,7 +8,7 @@ I am a Backend Engineer specializing in building robust, scalable, and secure se
 
 *   **Languages & Runtimes:** Node.js,
 *   **Frameworks:** Express.js
-*   **Databases & ORMs/ODMs:** MongoDB, Mongoose,Prisma
+*   **Databases & ORMs/ODMs:** MongoDB, ProstgresSQL,Mongoose,Prisma ORM, PgAdmin, SupaBASE
 *   **Architecture & Security:** RESTful APIs, JWT (JSON Web Tokens), MVC Pattern, Password Hashing (Bcrypt)
 *   **Tools & Workflows:** Git, GitHub, Postman, Environment Configurations
 
